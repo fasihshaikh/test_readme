@@ -17,13 +17,7 @@ We have 3 unique values in the Status column:
 ### Education:
 - Checked the visual representation of gendor counts with respect to level of Education.
 - Then also checked the Status counts with respect to level of Education.
+## All the EDA Graphs
 
-
-
-
-
-
-## Screenshots
-
-![(Image)](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![(Image)](https://github.com/fasihshaikh/test_readme/blob/main/7f2gi6.gif)
 
